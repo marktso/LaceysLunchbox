@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/logo.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Lacey's Lunchbox
       elementId: ''
       type: ImageBlock
     badge:
