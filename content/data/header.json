@@ -15,7 +15,7 @@
         {
             "label": "Contact",
             "altText": "Contact page",
-            "url": "/careers",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
