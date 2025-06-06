@@ -12,16 +12,7 @@ sections:
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
-    actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/logo.jpg
       altText: Lacey's Lunchbox
