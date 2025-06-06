@@ -68,7 +68,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:cara@laceyslunchbox.com",
             "icon": "mail",
             "type": "Social"
         },
