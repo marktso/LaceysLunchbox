@@ -3,7 +3,7 @@
         {
             "label": "Contact Us",
             "altText": "Contact page",
-            "url": "/contact",
+            "url": "mailto:cara@laceyslunchbox.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
