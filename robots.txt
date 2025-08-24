@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marktso.github.io/LaceysLunchbox/sitemap.xml
